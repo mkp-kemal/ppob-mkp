@@ -1,6 +1,6 @@
 import './App.css';
-// import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { HashRouter  as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+// import { HashRouter  as Router, Routes, Route } from 'react-router-dom';
 import Login from './Pages/Login';
 import { LandingPage } from './Pages/LandingPage';
 // import Protected from './Components/Protected';
